@@ -244,6 +244,12 @@ pointer-events: auto;
     left: 30px;
 }
 
+.inmain {
+    margin-left: 0px;
+    position: relative;
+    left: 45px;
+}
+
 .text {
     padding-left:150px ;
     padding-top: 15px
